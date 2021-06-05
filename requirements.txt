@@ -13,7 +13,7 @@ chardet==3.0.4
 constantly==15.1.0
 cryptography==3.0
 daphne==2.5.0
-Django==2.2.15
+Django==2.2.21
 django-bootstrap-static==4.2.1
 django-cropperjs==0.0.5
 hiredis==1.1.0
